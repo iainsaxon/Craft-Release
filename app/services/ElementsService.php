@@ -340,7 +340,7 @@ class ElementsService extends BaseApplicationComponent
 	/**
 	 * Returns the total number of elements that match a given criteria.
 	 *
-	 * @param ElementCriteriaModel $criteria An element criteria model that defines the praameters for the elements
+	 * @param ElementCriteriaModel $criteria An element criteria model that defines the parameters for the elements
 	 *                                       we should be counting.
 	 *
 	 * @return int The total number of elements that match the criteria.
